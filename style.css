@@ -1,0 +1,78 @@
+.container-fluid{
+    background-color: yellowgreen;
+    padding-bottom: 2%;
+}
+.iphone{
+    position: relative;
+    left: 73%;
+    width: 20%;
+    transform: rotate(25deg);
+}
+/* h1,p{
+    font-family:'Nanum Gothic', sans-serif;
+} */
+*{
+    font-family:'Nanum Gothic', sans-serif;
+}
+.but{
+    position: relative;
+    left: 200px;  
+}
+.fi{
+    position: relative;
+    right: 20rem;
+}
+.se{
+     position: relative;
+     right: 10rem;
+}
+.th{
+        font-size: 1rem;
+}
+.features-box{
+    text-align: center;
+}
+p{
+    color: gray;
+    padding: 4px;
+}
+.im{
+    color: hotpink;
+}
+.im:hover{
+    background-color: hotpink;
+}
+/* Testimonials */
+#testimonials{
+   
+    text-align: center;
+    background-color:yellowgreen;
+    color: white;
+    padding-bottom: 4%;
+}
+h2{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    line-height: 3.5rem;
+}
+#press{
+    
+    text-align: center;
+    padding-bottom: 1%;
+    
+}
+.po{
+    margin: 1rem;
+    width: 10%;
+}
+.carousel-item{
+    padding: 10%;
+}
+.card-deck{
+    margin: ;
+}
+.card-body{
+    padding: rem;
+}
+.card{
+    margin: 2rem;
+}
